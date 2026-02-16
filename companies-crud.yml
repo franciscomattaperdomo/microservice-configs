@@ -1,7 +1,7 @@
 db:
-  username: debuggeandoideas
+  username: fmattaperdomo
   maximum-pool-size: 5
   connection-timeout: 20000
-  url: jdbc:postgresql://localhost:5432/companies
-  password: udemy
+  url: jdbc:postgresql://localhost:5433/companies
+  password: mysecretpassword
   driverClassName: org.postgresql.Driver
